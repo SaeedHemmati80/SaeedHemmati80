@@ -5,5 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedHemmati80&layout=compact)](https://github.com/SaeedHemmati80)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Kotlin&color=ae34eb)
 
